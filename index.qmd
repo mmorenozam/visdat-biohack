@@ -1,0 +1,75 @@
+---
+logo: images/icon1_nb.png
+lang: es
+filters:
+  - timer
+format: 
+  letterbox-revealjs:
+    theme: custom.scss
+    progress: false
+    menu: true
+    width: 1400
+    height: 720
+    slide-number: true
+    preview-links: auto
+    touch: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 4
+      buttons: false
+    revealjs-plugins:
+      - pointer
+      
+callout-appearance: simple
+---
+
+## 
+
+::: columns
+::: {.column width="37.5%"}
+![](images/icon1_nb.png){style="margin-left:-40px"}
+:::
+
+::: {.column width="60%"}
+::: {.title data-id="title"}
+Titulo modulo
+:::
+
+Mauricio Moreno, PhD
+:::
+:::
+
+![](images/sample_back.jpg){.image-left}
+
+
+<!-- ultima slide -->
+## {}
+
+::: columns
+::: {.column width="60%"}
+
+::: {.title data-id="title"}
+Fin del módulo
+:::
+
+::: {.callout-tip}
+## Créditos
+
+Foto portada por <a href="https://unsplash.com/@patwhelen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pat Whelen</a> en <a href="https://unsplash.com/photos/train-rail-near-brown-building-during-daytime-yRvYmE7WVec?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
+Foto final por <a href="https://unsplash.com/@hongkyu?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">PARK HONG KYU</a> en <a href="https://unsplash.com/photos/white-and-black-boat-on-sea-during-sunset-f7efwMH5esE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+:::
+
+:::
+
+::: {.column width="37.5%"}
+
+![](images/icon1_nb.png){style="margin-left:125px"}
+
+
+:::
+:::
+
+![](images/chau_mijes.jpg){.image-right}

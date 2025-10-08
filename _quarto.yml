@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "titulo"
+  image: images/icon1.png
+  favicon: images/icon1.png
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
