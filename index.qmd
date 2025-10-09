@@ -42,6 +42,8 @@ Mauricio Moreno, PhD
 ![](images/sample_back.jpg){.image-left}
 
 
+## slide de prueba
+
 <!-- ultima slide -->
 ## {}
 
