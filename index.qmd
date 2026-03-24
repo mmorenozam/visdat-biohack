@@ -51,7 +51,7 @@ Mauricio Moreno, PhD
 ::: {.column width="60%"}
 
 ::: {.title data-id="title"}
-Fin del módulo
+Fi
 :::
 
 ::: {.callout-tip}
